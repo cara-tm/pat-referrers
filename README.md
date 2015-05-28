@@ -4,7 +4,7 @@ Textpattern CMS plugin
 
 Redirect to specific section your known referrers.
 
-This TXP plugin had been done from my article on txp-fr community website and a request by Lawrence. It support multiple website inbound links (see list attribute below) and makes distinction upon domains and sub domain names for referrers and also page into Urls (ie. http://domain.com/some-page.html).
+This TXP plugin had been done from my article on txp-fr community website and a request by Lawrence. It supports multiple website inbound links (see list attribute below) and makes distinction upon domains and sub domain names for referrers and also page into Urls (ie. http://domain.com/some-page.html).
 Purpose
 
 For maketing - or personal - reasons, you could wish to redirect your visitors which come from others websites you made when they click on your personal TXP website Url (inbound links). The only thing you need before using this plugin, is to have your personal TXP website Url on external websites (i.e. http://my-domain.com shown on textpattern.com).
