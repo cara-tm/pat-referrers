@@ -23,7 +23,7 @@ Place the only one tag available in the very top of your "default" page as this:
 * `separator`: string [optional], separator sign used into the list above. Default: "," (comma).
 * `redirect`: [optional] section name of your redirection for referrers listed in the "list" attribute above. Default: empty.
 * `status`: boolean [optional], if set to 1 a "301 Moved Permanently" status is send. Useful to tell search engine bots that the TXP section must never more to be indexed. Note: in this case, redirect attribute must to be set. Default: 0 (no status send)
-default: string [optional], your default section name for all other visitors they don't came from websites listed in the "list" above. Default: empty = your main "default" TXP page.
+* `default`: string [optional], your default section name for all other visitors they don't came from websites listed in the "list" above. Default: empty = your main "default" TXP page.
 * `external`: Url [optional], a full external website Url to redirect your visitors (i.e. http://google.com as external website address). Default: empty.
 
 
