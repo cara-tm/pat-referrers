@@ -2,6 +2,10 @@
 
 Textpattern CMS plugin
 
+> "This is not a WordPress plugin."
+
+>> - Magritte
+
 Redirect to specific section your known referrers.
 
 This TXP plugin had been done from my article on txp-fr community website and a request by Lawrence. It supports multiple website inbound links (see list attribute below) and makes distinction upon domains and sub domain names for referrers and also page into Urls (ie. http://domain.com/some-page.html).
