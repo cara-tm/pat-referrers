@@ -3,8 +3,7 @@
 Textpattern CMS plugin
 
 > "This is not a WordPress plugin."
-
->> - Magritte
+> - Magritte
 
 Redirect to specific section your known referrers.
 
