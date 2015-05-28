@@ -8,7 +8,8 @@ This TXP plugin had been done from my article on txp-fr community website and a 
 Purpose
 
 For maketing - or personal - reasons, you could wish to redirect your visitors which come from others websites you made when they click on your personal TXP website Url (inbound links). The only thing you need before using this plugin, is to have your personal TXP website Url on external websites (i.e. http://my-domain.com shown on textpattern.com).
-Installation & usage
+
+## Installation & usage
 
 Install this plugin as always into your TXP admin interface, then activate it.
 
