@@ -30,12 +30,12 @@ function pat_referrers($atts)
 {
 
 	extract(lAtts(array(
-		'list'		  => '',
+		'list'		=> '',
 		'redirect' 	=> NULL,
 		'default' 	=> NULL,
 		'external' 	=> NULL,
-		'separator' => ',',
-		'status' 	  => false,
+		'separator'     => ',',
+		'status' 	=> false,
 		'referrer' 	=> serverSet('HTTP_REFERER')
 	), $atts));
 
