@@ -16,7 +16,7 @@ For maketing - or personal - reasons, you could wish to redirect your visitors w
 
 Install this plugin as always into your TXP admin interface, then activate it.
 
-Place the only one tag available in the very top of your "default" page as this:
+Place the only one tag available in the very top of your "default" page as this (or whatever page depending on which one to target):
 
     <txp:pat_referrers list="" separator="," redirect="" external="" status="" default=""/>
 
